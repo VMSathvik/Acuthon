@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(gPic.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+header{
+     height: 100vh;
+     background-position: center;
+    background-size: cover;
+     font-family: sans-serif;
+     font-size:40px;
+}
+
+.textbox {
+    width: 580px;
+    height: 420px;
+    background: #fff;
+    color: #000;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    font-size: 20px;
+}
